@@ -1,2 +1,2 @@
 # JJH
-특강 저장소
+GitHub을 활용한 나만의 Repository 만들기
